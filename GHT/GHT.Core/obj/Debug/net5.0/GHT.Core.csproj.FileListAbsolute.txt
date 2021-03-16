@@ -1,0 +1,15 @@
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\bin\Debug\net5.0\GHT.Core.deps.json
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\bin\Debug\net5.0\GHT.Core.dll
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\bin\Debug\net5.0\ref\GHT.Core.dll
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\bin\Debug\net5.0\GHT.Core.pdb
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\obj\Debug\net5.0\GHT.Core.csprojAssemblyReference.cache
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\obj\Debug\net5.0\GHT.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\obj\Debug\net5.0\GHT.Core.AssemblyInfoInputs.cache
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\obj\Debug\net5.0\GHT.Core.AssemblyInfo.cs
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\obj\Debug\net5.0\GHT.Core.csproj.CoreCompileInputs.cache
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\obj\Debug\net5.0\GHT.Core.dll
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\obj\Debug\net5.0\ref\GHT.Core.dll
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\obj\Debug\net5.0\GHT.Core.pdb
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\bin\Debug\net5.0\GHT.Core.runtimeconfig.json
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\bin\Debug\net5.0\GHT.Core.runtimeconfig.dev.json
+C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Core\obj\Debug\net5.0\GHT.Core.genruntimeconfig.cache

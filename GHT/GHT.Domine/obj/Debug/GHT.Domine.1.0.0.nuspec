@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>GHT.Domine</id>
+    <version>1.0.0</version>
+    <authors>GHT.Domine</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\anoche\Documents\Ingeniero de Desarrollo\Globos\GHT\GHT.Domine\bin\Debug\net5.0\GHT.Domine.dll" target="lib\net5.0\GHT.Domine.dll" />
+  </files>
+</package>

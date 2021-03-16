@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GHT.Api</name>
+    </assembly>
+    <members>
+        <member name="M:GHT.Api.Controllers.ItemsController.GetItem(System.Int32)">
+            <summary>
+            Busa un item específico
+            </summary>
+            <param name="id">código unico del items</param>
+            <returns></returns>
+        </member>
+        <member name="M:GHT.Api.Controllers.ItemsController.Post(GHT.Core.Entities.Items)">
+            <summary>
+            Inserta un items nuevo
+            </summary>
+            <param name="model"></param>
+            <returns></returns>
+        </member>
+        <member name="M:GHT.Api.Controllers.ItemsController.Put(System.Int32,GHT.Core.Entities.Items)">
+            <summary>
+            Modfica items
+            </summary>
+            <param name="id">código unico del items</param>
+            <param name="model">moduleo actualizar</param>
+            <returns></returns>
+        </member>
+        <member name="M:GHT.Api.Controllers.ItemsController.Delete(System.Int32)">
+            <summary>
+            Elimna un items
+            </summary>
+            <param name="id">código unico del items</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
